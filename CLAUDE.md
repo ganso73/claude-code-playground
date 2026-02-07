@@ -23,3 +23,4 @@ This is the `claude-code-playground` repository — a space for experimenting wi
 <!-- Update this section as the project grows -->
 
 - `CLAUDE.md` — guidance for Claude Code
+- `solitaire.html` — three-card Klondike solitaire game (single-file HTML/CSS/JS)
